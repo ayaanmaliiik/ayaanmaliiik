@@ -56,7 +56,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    
+    ![Ayaan Malik GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaanmalik-studio&langs_count=5&theme=tokyonight)()
 </div>
 
 <br/><br/>

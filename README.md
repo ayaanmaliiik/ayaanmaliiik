@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ 🔭 I’m currently working as **a Freelancer**
  
  🌱 I’m currently learning **React, Express.js, Node.js, MongoDb**
 
@@ -42,25 +42,4 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ayaanmalik-studio/ayaanmalik-studio/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-    ![Ayaan Malik GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ayaanmalik-studio&langs_count=5&theme=tokyonight)()
-</div>
-
-<br/><br/>
-
-<hr/>
-
 <br/>
